@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @capaisan
-- 👀 I’m interested in backend game development.
-- 🌱 I’m currently learning Object Oriented Programming in C++.
-- 💞️ I’m looking to collaborate on game development, as that is my dream career.
+- 👀 My dream career is backend game development.
+- 🌱 I’m currently learning Machine Learning in python.
+- 💞️ Looking for an internship as a software developer.
 - 📫 You can reach me via email at capaisan@gmail.com
 
 <!---
