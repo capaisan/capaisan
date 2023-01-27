@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @capaisan
 - 👀 My dream career is backend game development.
-- 🌱 I’m currently learning Machine Learning in python.
-- 💞️ Looking for an internship as a software developer.
+- 🌱 I’m currently going for my B.S. in Information Systems.
+- 💞️ Looking to collaborate on projects and learn more.
 - 📫 You can reach me via email at capaisan@gmail.com
 
 <!---
